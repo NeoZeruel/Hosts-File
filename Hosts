@@ -1,0 +1,38 @@
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via Github
+#
+# Date: April 09 2016
+#
+# Project home page: https://github.com/NeoZeruel/Hosts-File
+#
+# ===============================================================
+127.0.0.1 cdn.cpmstar.com
+127.0.0.1 cdn.engine.4dsply.com
+127.0.0.1 ecpmstar.com
+127.0.0.1 server.cpmstar.com
+127.0.0.1 ads.a2ggroup.com
+127.0.0.1 steepto.com
+127.0.0.1 imgg.steepto.com
+127.0.0.1 cdnjs.cloudflare.com
+127.0.0.1 d2b560qq58menv.cloudfront.net
+127.0.0.1 d4bsxdtgtmhxt.cloudfront.net
+127.0.0.1 d31qbv1cthcecs.cloudfront.net
+127.0.0.1 dsms0mj1bbhn4.cloudfront.net
+127.0.0.1 d7x5nblzs94me.cloudfront.net
+
+127.0.0.1 b.scorecardresearch.com
+127.0.0.1 aj-gb.mgid.com
+127.0.0.1 s3.amazonaws.com
+127.0.0.1 jsc.mgid.com
+127.0.0.1 whos.amung.us
+127.0.0.1 4dsply.com
+127.0.0.1 tags.bkrtx.com
+127.0.0.1 cdn.teads.tv
+127.0.0.1 static.doubleclick.net
+127.0.0.1 www5.smartadserver.com
+127.0.0.1 partner.shareaholic.com
+127.0.0.1 clickcdn.shareaholic.com
+127.0.0.1 ads.reembed.com
+127.0.0.1 s.reembed.com
+127.0.0.1 analytics.shareaholic.com
+127.0.0.1 ads.mediade.sk
