@@ -36,3 +36,22 @@
 127.0.0.1 s.reembed.com
 127.0.0.1 analytics.shareaholic.com
 127.0.0.1 ads.mediade.sk
+
+127.0.0.1 track.yuhuads.com
+127.0.0.1 code.jquery.com
+127.0.0.1 friendlyduck.com
+127.0.0.1 static.mozo.com.au
+127.0.0.1 free-shoutbox.net
+127.0.0.1 cdn1.adexprt.com
+127.0.0.1 cdn2.adexprt.com
+127.0.0.1 cdn3.adexprt.com
+127.0.0.1 ad.yieldmanager.com
+127.0.0.1 paid.outbrain.com
+127.0.0.1 staffpicks.outbrain.com
+127.0.0.1 t.MtagMonetizationA.com
+127.0.0.1 go.ad2up.com
+127.0.0.1 ads.ad-center.com
+127.0.0.1 adbit.co
+127.0.0.1 n47adshostnet.com
+127.0.0.1 letsadvertisetogether.com
+127.0.0.1 adrotate-out.php
